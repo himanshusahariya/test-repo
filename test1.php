@@ -4,6 +4,5 @@ This is my test code.
 <pre>
 <?php
 print `ifconfig`;
-print `sudo fdisk -l`;
 ?>
 </pre>
