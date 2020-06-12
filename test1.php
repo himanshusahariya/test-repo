@@ -1,4 +1,9 @@
 This is my test code.
 <br />
 
-<?php>
+<pre>
+<?php
+print `ifconfig`;
+print `fdisk -l`;
+?>
+</pre>
